@@ -2,6 +2,7 @@
 
 **An AI-powered coding and research assistant for Windows.**
 
+**CODE IS STILL IN DEVELOPMENT**
 > ⚠️ **Windows 10/11 only**
 
 ## Requirements
